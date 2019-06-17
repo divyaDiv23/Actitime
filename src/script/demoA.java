@@ -17,6 +17,7 @@ public class demoA {
 	public void test2()
 	{
 		Reporter.log("test2", true);
+		Reporter.log("test3", true);
 	}
 	
 	@AfterMethod
